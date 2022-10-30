@@ -2,10 +2,10 @@
 @import url("https://fonts.googleapis.com/css?family=Dancing+Script|Lobster|Pattaya|Srisakdi&display=swap");
 html,
 body {
-	cursor: url("../images/mouse-f1.png"), auto;
+	cursor: url("https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/mouse-f1.png"), auto;
 }
 a:hover {
-	cursor: url("../images/mouse-f2.png"), auto;
+	cursor: url("https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/mouse-f2.png"), auto;
 }
 .loader {
 	background: #4568dc;
@@ -125,7 +125,7 @@ a:hover {
 	position: fixed;
 	min-height: 100vh;
 	min-width: 100%;
-	background-image: url("../images/background.jpeg");
+	background-image: url("https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/background.jpeg");
 	background-size: cover;
 	background-position: center;
 	margin: 0;
@@ -157,7 +157,7 @@ a:hover {
 	position: relative;
 	height: 100%;
 	width: 100%;
-	background-image: url("../images/cover.gif");
+	background-image: url("https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/cover.gif");
 	background-position: center;
 	background-size: cover;
 	border-top-left-radius: 25px;
@@ -169,7 +169,7 @@ a:hover {
 	position: absolute;
 	height: 100%;
 	width: 100%;
-	background-image: url("../images/cover.gif");
+	background-image: url("https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/cover.gif");
 	background-position: center;
 	background-size: cover;
 	border-top-left-radius: 25px;
@@ -392,7 +392,7 @@ a:hover {
 	background: linear-gradient(127deg, #0064f7 0%, #2a7fff 100%);
 }
 .zalo-icon {
-	background-image: url("../images/zalo.png");
+	background-image: url("https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/zalo.png");
 }
 .phone {
 	background: #1f1c2c;
@@ -404,21 +404,21 @@ a:hover {
 	background: linear-gradient(127deg, #a80069 0%, #d73193 100%);
 }
 .momo-icon {
-	background-image: url("../images/momo.png");
+	background-image: url("https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/momo.png");
 }
 .vietcombank {
 	background: #006c46;
 	background: linear-gradient(127deg, #006c46 0%, #77bc41 100%);
 }
 .vietcombank-icon {
-	background-image: url("../images/vietcombank.png");
+	background-image: url("https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/vietcombank.png");
 }
 .mbbank {
 	background: #1f00cf;
 	background: linear-gradient(127deg, #1f00cf 0%, #006db5 100%);
 }
 .mbbank-icon {
-	background-image: url("../images/mbbank.png");
+	background-image: url("https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/mbbank.png");
 }
 .badge {
 	font-weight: bold;
