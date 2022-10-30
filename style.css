@@ -125,9 +125,7 @@ a:hover {
 	position: fixed;
 	min-height: 100vh;
 	min-width: 100%;
-	background-image: <img alt='avt' src='https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/background.jpeg' />
-	
-	<img alt='avt' src='https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/background.jpeg' />
+	background-image: url("https://cdn.jsdelivr.net/gh/barubelajarnih/css@main/background.jpeg");
 	
 	background-size: cover;
 	background-position: center;
